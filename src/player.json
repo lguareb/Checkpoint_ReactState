@@ -1,0 +1,41 @@
+
+{
+    "players":[  
+        {
+            "id": "1",
+            "name":"Cristiano Ronaldo",
+            "team":"Al-Nassr Riyad",
+            "nationality":"Portugal",
+            "jerseyNumber":"7",
+            "age":"38",
+            "imageURL":"/Ronaldo.jpg"
+        },  
+        {
+            "id": "2",
+            "name":"Leo Messi", 
+            "team":"Inter Miami CF", 
+            "nationality":"Argentina", 
+            "jerseyNumber":"10", 
+            "age":"36", 
+            "imageURL":"/Messi.jpg"
+        },  
+        {
+            "id": "3",
+            "name":"Neymar Jr.",
+            "team":"Al Hilal",
+            "nationality":"Brazil",
+            "jerseyNumber":"10",
+            "age":"31",
+            "imageURL":"/Neymar.jpg"
+        },
+        {
+            "id": "4",
+            "name":"Achraf Hakimi",
+            "team":"PSG FC",
+            "nationality":"Morocco",
+            "jerseyNumber":"2",
+            "age":"24",
+            "imageURL":"/Hakimi.jpg"
+        }  
+    ]
+}
